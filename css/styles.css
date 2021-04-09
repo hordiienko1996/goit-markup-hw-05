@@ -771,7 +771,5 @@ img {
 
 .btn-close:hover,
 .btn-close:focus {
-  fill: var(--primary-white-color);
-  background-color: var(--accent-color);
-  border: none;
+  fill: var(--accent-color);
 }
